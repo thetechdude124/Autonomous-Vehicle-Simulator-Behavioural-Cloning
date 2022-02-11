@@ -1,5 +1,6 @@
 # 🌐 Simulating Autonomous Vehicles using Behavioural Cloning
 
+![image](https://user-images.githubusercontent.com/65571552/153605382-5b8742a1-55f4-4b34-8258-be6022d63204.png)
 https://www.youtube.com/watch?v=HDSw95Cojp8
 
 🚗 Nearly **1.2 million** people die each year due to car accidents - due to careless errors, impaired driving, and reckless behaviour. 
